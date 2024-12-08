@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Arif Aswar",
+        "email":"arif@gmail.com",
+        "password": "123456",
+        "role": "Seller",
+        "numberPhone": "085850994285",
+        "address": "jln. Mallengkeri 2"
+    },
+    {
+        "id": 2,
+        "name": "Verdi Alim",
+        "email":"verdi@gmail.com",
+        "password": "123456",
+        "role": "Buyer",
+        "numberPhone": "085850994285",
+        "address": "jln. Mallengkeri 2"
+    }
+]

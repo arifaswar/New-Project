@@ -1,5 +1,3 @@
-# New-Project
-
 'use strict';
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
@@ -31,13 +29,6 @@ module.exports = {
         type: Sequelize.STRING,
         allowNull: false
       },
-      userId: {
-        type: Sequelize.INTEGER,
-        references: {
-          model: 'Users',
-          key: 'id'
-        }
-      },
       categoryId: {
         type: Sequelize.INTEGER,
         references: {
@@ -45,6 +36,14 @@ module.exports = {
           key: 'id'
         }
       },
+      userId: {
+        type: Sequelize.INTEGER,
+        references: {
+          model: 'Users',
+          key: 'id'
+        }
+      },
+      
       createdAt: {
         allowNull: false,
         type: Sequelize.DATE
@@ -59,9 +58,3 @@ module.exports = {
     await queryInterface.dropTable('Products');
   }
 };
-
-
-
-
-
-     

@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Baju bekas rasa baru",
+        "description" : "Baju bekas keren rasa baru",
+        "stock": 5,
+        "price": 100000,
+        "categoryId": 1,
+        "imageUrl": "https://dynamic.zacdn.com/r3qRwtha9JE_lmqpy5TQ7ef3sUw=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/ricardo-4700-9213304-1.jpg",
+        "userId": 1
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Baju"
+    },
+    {
+        "id": 2,
+        "name": "Celana"
+    },
+    {
+        "id": 3,
+        "name": "Sweater"
+    },
+    {
+        "id": 4,
+        "name": "Sepatu"
+    },
+    {
+        "id": 5,
+        "name": "Topi"
+    },
+    {
+        "id": 6,
+        "name": "Tas"
+    },
+    {
+        "id": 7,
+        "name": "Jacket"
+    },
+    {
+        "id": 8,
+        "name": "Kemeja"
+    }
+]
